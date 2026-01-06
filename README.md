@@ -1,5 +1,5 @@
 ### NC vs SC population growth
-A web scraping project comparing population grown in North and South Carolina
+A web scraping project comparing population growth in North and South Carolina
 * Wikipedia was selected due to its scraping policy and data availability
 
 While this project leverages the foundational scraping techniques from the IBM Data Science Professional Certificate, it extends the scope by performing multi-source data merging and implementing a custom cleaning pipeline to handle real-world Wikipedia HTML inconsistencies.
